@@ -1,4 +1,4 @@
-# end and sep in print
+# arguments end and sep inside print
 import os, time
 
 def newPrint(color, word):
