@@ -1,4 +1,5 @@
-# arguments end and sep inside print
+# arguments end and sep inside print and change of text color
+
 import os, time
 
 def newPrint(color, word):
